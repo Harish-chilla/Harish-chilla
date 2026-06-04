@@ -4,30 +4,40 @@
 
 💻 Passionate about Web Development, Data Analytics, and Software Engineering
 
-🌱 Currently learning Angular, Node.js, Cloud Computing, and Machine Learning
-
 🚀 Always interested in building practical projects and improving my development skills
 
 ---
 
-🚀 Projects
-🛒 E-Commerce Website Frontend
-Responsive e-commerce website built using HTML, CSS, and JavaScript
-Features product listings, shopping cart functionality, and modern UI design
-Focused on user experience, responsive layouts, and interactive web components
+##🚀 Projects
 
-📊 Data Job Dashboard
-Interactive dashboard built using Power BI
-Analyzes job market trends, salary insights, hiring patterns, and skill demand
-Provides data-driven visualizations to help understand opportunities in the data industry
-Includes filters, KPIs, and dynamic reports for better decision-making
+###🛒 E-Commerce Website Frontend
+
+-Responsive e-commerce website built using HTML, CSS, and JavaScript
+
+-Features product listings, shopping cart functionality, and modern UI design
+
+-Focused on user experience, responsive layouts, and interactive web components
+
+
+
+###📊 Data Job Dashboard
+
+-Interactive dashboard built using Power BI
+
+-Analyzes job market trends, salary insights, hiring patterns, and skill demand
+
+-Provides data-driven visualizations to help understand opportunities in the data industry
+
+-Includes filters, KPIs, and dynamic reports for better decision-making
+
 ---
 
 ## 💻 Technical Skills
 
 ### Programming Languages
-![c++](https://img.shields.io/badge/c++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -67,7 +77,7 @@ Includes filters, KPIs, and dynamic reports for better decision-making
 - Learn Full Stack Development
 - Improve Data Analytics Skills
 - Contribute to Open Source Projects
-- Secure a Software Development Internship
+- Secure an Internship
 
 ---
 
