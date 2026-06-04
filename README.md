@@ -1,15 +1,82 @@
-# 💫 About Me:
-Hi there, I’m [Harish chilla]! 👋<br><br>I am an aspiring Data Analyst and a current B.Tech student at VIT-AP University. I love diving into data to uncover meaningful insights and solve real-world problems.<br><br>🚀 What I’m Up To:<br>* 🎓 Pursuing my B.Tech at VIT-AP University.<br>* 📊 Focusing on data analytics, visualization, and data-driven decision-making.<br>* 🌱 Currently sharpening my skills in SQL (Querying, Joins, Aggregations, and Database Management).<br><br>🛠️ Tech Stack & Tools:<br>* Languages: SQL (Learning), Python ,c++,c,html,css,javascript<br>* Tools & Platforms: GitHub, Git
+# Hi there, I'm Harish Chilla 👋
+
+🎓 B.Tech Computer Science Student at VIT-AP University
+
+💻 Passionate about Web Development, Data Analytics, and Software Engineering
+
+🌱 Currently learning Angular, Node.js, Cloud Computing, and Machine Learning
+
+🚀 Always interested in building practical projects and improving my development skills
+
+---
+
+🚀 Projects
+🛒 E-Commerce Website Frontend
+Responsive e-commerce website built using HTML, CSS, and JavaScript
+Features product listings, shopping cart functionality, and modern UI design
+Focused on user experience, responsive layouts, and interactive web components
+
+📊 Data Job Dashboard
+Interactive dashboard built using Power BI
+Analyzes job market trends, salary insights, hiring patterns, and skill demand
+Provides data-driven visualizations to help understand opportunities in the data industry
+Includes filters, KPIs, and dynamic reports for better decision-making
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+![c++](https://img.shields.io/badge/c++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ill_fated_x_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harishchila) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishchilla2004@gmail.com) 
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Harish-chilla&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Harish-chilla&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harish-chilla&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-chilla&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-chilla&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harish-chilla&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harish-chilla&theme=tokyo-night)
+
+---
+
+## 🎯 Goals for 2026
+
+- Learn Full Stack Development
+- Improve Data Analytics Skills
+- Contribute to Open Source Projects
+- Secure a Software Development Internship
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harish-chilla-511bba379/)
+
+📧 Email: harishchilla2004@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
