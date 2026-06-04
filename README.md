@@ -12,7 +12,4 @@ Hi there, I’m [Harish chilla]! 👋<br><br>I am an aspiring Data Analyst and a
 ![](https://streak-stats.demolab.com/?user=Harish-chilla&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harish-chilla&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Harish-chilla&icon=4&color=4)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
